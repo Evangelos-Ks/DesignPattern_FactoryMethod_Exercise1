@@ -1,0 +1,6 @@
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Advance\Design_Patterns\Exercises\FactoryMethod_Exercise1\FactoryMethod_Exercise1\obj\Debug\FactoryMethod_Exercise1.csprojAssemblyReference.cache
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Advance\Design_Patterns\Exercises\FactoryMethod_Exercise1\FactoryMethod_Exercise1\bin\Debug\FactoryMethod_Exercise1.exe.config
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Advance\Design_Patterns\Exercises\FactoryMethod_Exercise1\FactoryMethod_Exercise1\bin\Debug\FactoryMethod_Exercise1.exe
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Advance\Design_Patterns\Exercises\FactoryMethod_Exercise1\FactoryMethod_Exercise1\bin\Debug\FactoryMethod_Exercise1.pdb
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Advance\Design_Patterns\Exercises\FactoryMethod_Exercise1\FactoryMethod_Exercise1\obj\Debug\FactoryMethod_Exercise1.exe
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Advance\Design_Patterns\Exercises\FactoryMethod_Exercise1\FactoryMethod_Exercise1\obj\Debug\FactoryMethod_Exercise1.pdb
